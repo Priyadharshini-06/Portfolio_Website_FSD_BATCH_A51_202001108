@@ -1,5 +1,5 @@
 # Portfolio_Website_FSD_BATCH_A51_202001108
-Introduction
+Introduction:
 The purpose of this report is to document the design, development, and implementation of a web-based portfolio project. The project was undertaken with the goal of creating a platform to showcase personal and professional work, as well as to develop skills in web development and design.
 
 Project Objectives
